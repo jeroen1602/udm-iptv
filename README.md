@@ -115,6 +115,7 @@ popular IPTV providers. Below is a list of supported IPTV providers:
 |    XS4ALL |   NL    | Yes                                                                                                                 |
 |     Tweak |   NL    | Yes                                                                                                                 |
 |    Solcon |   NL    | Yes                                                                                                                 |
+|     Odido |   NL    | Yes                                                                                                                 |
 |   Telekom |   DE    | [Manual configuration necessary](https://github.com/fabianishere/udm-iptv/discussions/8)                            |
 | MagentaTV |   DE    | [Manual configuration necessary](https://github.com/fabianishere/udm-iptv/issues/2#issuecomment-1007413230)         |
 |  Swisscom |   CH    | Yes                                                                                                                 |
